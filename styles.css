@@ -2,14 +2,19 @@
     background-color: lightblue;
 }
 
+#main-heading {
+    text-align: center;
+}
+
 .image-links {
-    height: 250px;
+    height: 300px;
     width: auto;
     float: left;
-    padding-right: 25px;
+    margin-right: 100px;
+    margin-left: 150px;
 }
 
 .image-links img {
-    height: 250px;
+    height: 300px;
     width: auto;
 }
